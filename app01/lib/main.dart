@@ -21,6 +21,12 @@ class MyApp extends StatelessWidget {
               fontWeight: FontWeight.w500,
             ),
           ),
+
+          leading: Icon(
+            Icons.menu,
+            color: Colors.white,
+            size: 35,
+          ),
         ),
 
        ),
