@@ -13,6 +13,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
        home: Scaffold(
         appBar: AppBar(
+          backgroundColor: const Color(0xff000080),
         ),
 
        ),
