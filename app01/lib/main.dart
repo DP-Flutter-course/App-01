@@ -27,6 +27,12 @@ class MyApp extends StatelessWidget {
             color: Colors.white,
             size: 35,
           ),
+
+          actions: [Icon(
+            Icons.account_circle,
+            color: Colors.white,
+            size: 35,),
+          ],
         ),
 
        ),
